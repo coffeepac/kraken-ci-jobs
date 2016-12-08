@@ -220,7 +220,7 @@ deployment:
       coreos: allNodes
     -
       name: clusterNodes
-      count: 3
+      count: 5
       keypair: krakenKey
       mounts:
         -
